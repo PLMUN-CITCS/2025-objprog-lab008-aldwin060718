@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class SelectionStatementsDemo {
     public static void main(String[] args) {
 int studentScore = 82;
@@ -38,6 +37,4 @@ if (studentScore >= 90) {
 
     }
 }
-=======
 
->>>>>>> b5561241f2909514585397dbeefcd089ce2e0308
